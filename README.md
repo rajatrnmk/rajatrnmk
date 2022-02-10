@@ -4,6 +4,7 @@
 - 📫  reach me @
            linkedin - linkedin.com/in/rajat-moger-831559213
            or mail me - itsrajatmoger@gmail.com
+- for more - https://myresume-7a414.web.app/
 
 <!---
 rajatrnmk/rajatrnmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
